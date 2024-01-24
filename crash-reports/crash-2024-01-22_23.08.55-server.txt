@@ -1,0 +1,71 @@
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 1/22/24, 11:08 PM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at it.unimi.dsi.fastutil.objects.ReferenceOpenHashSet$SetIterator.next(ReferenceOpenHashSet.java:435) ~[?:?] {re:classloading}
+	at blusunrize.immersiveengineering.api.wires.GlobalWireNetwork.update(GlobalWireNetwork.java:439) ~[immersiveengineering:?] {re:classloading}
+	at blusunrize.immersiveengineering.common.EventHandler.onWorldTick(EventHandler.java:181) ~[immersiveengineering:?] {re:classloading}
+	at net.minecraftforge.eventbus.ASMEventHandler_166_EventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic) ~[?:?] {}
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.fml.hooks.BasicEventHooks.onPreWorldTick(BasicEventHooks.java:81) ~[forge:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:848) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at java.lang.Thread.run(Thread.java:829) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Linux (amd64) version 5.15.0-91-generic
+	Java Version: 11.0.21, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 5848536584 bytes (5577 MB) / 8606711808 bytes (8208 MB) up to 31457280000 bytes (30000 MB)
+	CPUs: 10
+	JVM Flags: 2 total; -Xmx30000M -Xms8192M
+	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
+	ModLauncher launch target: fmlserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/mixin-0.8.4.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.41.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.41.jar runtime_enum_extender PLUGINSERVICE 
+		/forge-1.16.5-36.2.41.jar capability_inject_definalize PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.41.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.41.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.41
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		forge-1.16.5-36.2.41-server.jar                   |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: NOSIGNATURE
+		SimpleStorageNetwork-1.16.5-1.5.3.jar             |Simple Storage Network        |storagenetwork                |1.16.5-1.5.3        |DONE      |Manifest: 1f:47:ac:b1:61:82:96:b8:47:19:16:d2:61:81:11:60:3a:06:4b:61:31:56:7d:44:31:1e:0c:6f:22:5b:4c:ed
+		forge-1.16.5-36.2.41-universal.jar                |Forge                         |forge                         |36.2.41             |DONE      |Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
+		reap-1.16.5-1.0.1.jar                             |Reap Mod                      |reap                          |1.16.5-1.0.1        |DONE      |Manifest: NOSIGNATURE
+		ImmersiveEngineering-1.16.5-5.1.0-148.jar         |Immersive Engineering         |immersiveengineering          |1.16.5-5.1.0-148    |DONE      |Manifest: NOSIGNATURE
+		DivineRPG-1.8.27-1.16.5.jar                       |DivineRPG                     |divinerpg                     |1.8.27              |DONE      |Manifest: NOSIGNATURE
+		architectury-1.32.68-forge-1.16.5.jar             |Architectury                  |architectury                  |1.32.68             |DONE      |Manifest: NOSIGNATURE
+		ferritecore-2.1.1-forge-1.16.5.jar                |Ferrite Core                  |ferritecore                   |2.1.1               |DONE      |Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		ironchest-1.16.5-11.2.21.jar                      |Iron Chests                   |ironchest                     |1.16.5-11.2.21      |DONE      |Manifest: NOSIGNATURE
+		citadel-1.8.1-1.16.5.jar                          |Citadel                       |citadel                       |1.8.1               |DONE      |Manifest: NOSIGNATURE
+		iceandfire-2.1.12-1.16.5-patch-1.jar              |Ice and Fire                  |iceandfire                    |2.1.12-1.16.5-patch-|DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: f55df793-d60b-4953-b884-c117437ab633
+	Player Count: 2 / 20; [ServerPlayerEntity['sas79'/365, l='ServerLevel[world]', x=1426.57, y=67.42, z=-955.74], ServerPlayerEntity['timetocook420'/279, l='ServerLevel[world]', x=1437.44, y=69.00, z=-951.29]]
+	Data Packs: vanilla, mod:storagenetwork, mod:forge, mod:reap, mod:immersiveengineering, mod:divinerpg, mod:architectury, mod:ferritecore (incompatible), mod:ironchest, mod:citadel (incompatible), mod:iceandfire
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
