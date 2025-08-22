@@ -1,515 +1,281 @@
-[23Jan2024 17:26:27.228] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.41, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --nogui]
-[23Jan2024 17:26:27.230] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.21 by Ubuntu
-[23Jan2024 17:26:27.420] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[23Jan2024 17:26:27.469] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/home/mike/Minecraft-Server/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[23Jan2024 17:26:27.831] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[23Jan2024 17:26:27.894] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[23Jan2024 17:26:27.899] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[23Jan2024 17:26:28.438] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., --nogui]
-[23Jan2024 17:26:29.766] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
-[23Jan2024 17:26:32.583] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[23Jan2024 17:26:32.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[23Jan2024 17:26:32.585] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[23Jan2024 17:26:32.586] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[23Jan2024 17:26:32.648] [modloading-worker-11/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.41, for MC 1.16.5 with MCP 20210115.111550
-[23Jan2024 17:26:32.697] [modloading-worker-11/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.41 Initialized
-[23Jan2024 17:26:32.703] [modloading-worker-13/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered events
-[23Jan2024 17:26:34.615] [main/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered blocks
-[23Jan2024 17:26:34.821] [main/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered items
-[23Jan2024 17:26:34.975] [main/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered tile entities
-[23Jan2024 17:26:35.001] [main/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered enchantments
-[23Jan2024 17:26:35.112] [main/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered sounds
-[23Jan2024 17:26:35.172] [main/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Attached entity attributes
-[23Jan2024 17:26:35.372] [modloading-worker-6/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered registry keys
-[23Jan2024 17:26:35.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/trunk/1.16/update.json
-[23Jan2024 17:26:35.425] [modloading-worker-6/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered features
-[23Jan2024 17:26:35.476] [modloading-worker-6/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered triggers
-[23Jan2024 17:26:35.479] [modloading-worker-6/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered networking
-[23Jan2024 17:26:35.481] [modloading-worker-6/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Setup structures
-[23Jan2024 17:26:35.482] [modloading-worker-6/INFO] [divinerpg.DivineRPG/]: [DivineRPG] Registered configured structures
-[23Jan2024 17:26:35.488] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
-[23Jan2024 17:26:35.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Found status: BETA Current: 1.16.5-1.5.3 Target: 1.5.3
-[23Jan2024 17:26:35.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Jan2024 17:26:36.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.41 Target: null
-[23Jan2024 17:26:36.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
-[23Jan2024 17:26:36.669] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.lang.NullPointerException: null
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[23Jan2024 17:26:36.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
-[23Jan2024 17:26:36.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.16.5-5.1.0-148 Target: null
-[23Jan2024 17:26:36.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [divinerpg] Starting version check at https://raw.githubusercontent.com/DivineRPG/DivineRPG-Assets/main/divinerpg_update.json
-[23Jan2024 17:26:36.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [divinerpg] Found status: UP_TO_DATE Current: 1.8.27 Target: null
-[23Jan2024 17:26:40.395] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Jan2024 17:26:40.860] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23Jan2024 17:26:40.862] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23Jan2024 17:26:40.864] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23Jan2024 17:26:40.866] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23Jan2024 17:26:40.868] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23Jan2024 17:26:40.875] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SimpleStorageNetwork-1.16.5-1.5.3.jar, forge-1.16.5-36.2.41-universal.jar, reap-1.16.5-1.0.1.jar, ImmersiveEngineering-1.16.5-5.1.0-148.jar, DivineRPG-1.8.27-1.16.5.jar, architectury-1.32.68-forge-1.16.5.jar, ferritecore-2.1.1-forge-1.16.5.jar, ironchest-1.16.5-11.2.21.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar
-[23Jan2024 17:26:41.961] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe divinerpg:shapeless/guide_book
-com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
-	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
-	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:86) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[23Jan2024 17:26:41.992] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe storagenetwork:network_book
-com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
-	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
-	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:86) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[23Jan2024 17:26:42.029] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe divinerpg:shapeless/skyplant_seeds
-com.google.gson.JsonSyntaxException: Unknown item 'divinerpg:sky_plant_glowbone'
-	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
-	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
-	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
-	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
-	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
-	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
-	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[23Jan2024 17:26:42.041] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 28 recipes
-[23Jan2024 17:26:42.300] [Worker-Main-10/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table divinerpg:patchouli
-com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
-	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
-	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
-	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
-	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
-	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
-	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
-	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
-	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
-	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
-	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
-	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
-	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
-	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
-	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
-	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
-	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
-	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
-	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
-	at java.util.HashMap.forEach(HashMap.java:1337) ~[?:?]
-	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
-	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
-	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
-	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
-	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
-	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
-	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
-	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[23Jan2024 17:26:42.809] [Worker-Main-10/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1561 advancements
-[23Jan2024 17:26:42.931] [Worker-Main-10/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 118 milliseconds
-[23Jan2024 17:26:42.952] [Worker-Main-10/INFO] [immersiveengineering/]: Recipes for potions: minecraft:long_slow_falling, minecraft:slow_falling, minecraft:strong_leaping, minecraft:strength, minecraft:leaping, minecraft:long_weakness, minecraft:thick, minecraft:night_vision, minecraft:long_poison, minecraft:water, minecraft:long_strength, minecraft:strong_healing, minecraft:strong_strength, minecraft:strong_slowness, minecraft:mundane, minecraft:long_turtle_master, minecraft:strong_turtle_master, minecraft:long_regeneration, minecraft:awkward, minecraft:long_fire_resistance, minecraft:poison, minecraft:long_water_breathing, minecraft:long_invisibility, minecraft:long_night_vision, minecraft:healing, minecraft:harming, minecraft:fire_resistance, minecraft:long_swiftness, minecraft:weakness, minecraft:strong_poison, minecraft:water_breathing, minecraft:strong_harming, minecraft:long_leaping, minecraft:strong_swiftness, minecraft:swiftness, minecraft:slowness, minecraft:invisibility, minecraft:regeneration, minecraft:turtle_master, minecraft:strong_regeneration, minecraft:long_slowness
-[23Jan2024 17:26:46.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[23Jan2024 17:26:46.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Jan2024 17:26:46.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Jan2024 17:26:46.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Jan2024 17:26:46.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Jan2024 17:26:46.486] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[23Jan2024 17:26:46.651] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Jan2024 17:26:46.652] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Jan2024 17:26:46.652] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Jan2024 17:26:46.652] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Jan2024 17:26:46.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Jan2024 17:26:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Jan2024 17:26:47.432] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Jan2024 17:26:47.433] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[23Jan2024 17:26:47.711] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 908 ms
-[23Jan2024 17:26:47.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.050s)! For help, type "help"
-[23Jan2024 17:26:47.739] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[23Jan2024 17:26:47.740] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[23Jan2024 17:27:00.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@679c672
-[23Jan2024 17:27:00.526] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: sas79[/88.204.69.189:53158] logged in with entity id 145 at (1994.857132430774, 64.0, -1163.219854764096)
-[23Jan2024 17:27:00.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 joined the game
-[23Jan2024 17:28:28.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 1445.5, 67.5, -920.5]
-[23Jan2024 17:28:39.098] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager EntityJackOMan['Jack 'O' Man'/919, l='ServerLevel[world]', x=1411.71, y=37.00, z=-914.68] died, message: 'Jack 'O' Man was slain by Zombie'
-[23Jan2024 17:29:09.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Set the time to 1000]
-[23Jan2024 17:38:37.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Set the time to 1000]
-[23Jan2024 17:39:50.651] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@59362a99
-[23Jan2024 17:39:50.678] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: timetocook420[/178.71.231.3:61195] logged in with entity id 2751 at (1437.441308007438, 69.0, -951.2891334669962)
-[23Jan2024 17:39:50.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 joined the game
-[23Jan2024 17:43:09.196] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 moved wrongly!
-[23Jan2024 17:44:05.394] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3385, l='ServerLevel[world]', x=1384.30, y=63.00, z=-921.69]
-[23Jan2024 17:44:05.394] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3385, l='ServerLevel[world]', x=1384.30, y=63.00, z=-921.69]
-[23Jan2024 17:44:06.545] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 lost connection: Disconnected
-[23Jan2024 17:44:06.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 left the game
-[23Jan2024 17:44:17.305] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@37c3ba77
-[23Jan2024 17:44:17.314] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: timetocook420[/178.71.231.3:61220] logged in with entity id 3413 at (1446.4133616211816, 67.0, -924.6896136902757)
-[23Jan2024 17:44:17.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 joined the game
-[23Jan2024 17:48:18.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Set the time to 1000]
-[23Jan2024 17:50:00.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 635.5, 71.5, -1782.5]
-[23Jan2024 17:51:30.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Gave 64 [Gravemaster's Key] to sas79]
-[23Jan2024 17:54:47.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 17:54:58.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 630.5, 69.5, -1805.5]
-[23Jan2024 17:55:17.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 17:55:34.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to sas79]
-[23Jan2024 17:57:26.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 17:57:33.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 632.5, 69.5, -1803.5]
-[23Jan2024 17:57:36.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 17:57:44.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 632.5, 69.5, -1803.5]
-[23Jan2024 17:58:05.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Set the time to 1000]
-[23Jan2024 17:58:09.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 1445.5, 67.5, -920.5]
-[23Jan2024 17:58:33.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Ghoul
-[23Jan2024 17:58:36.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 637.5, 69.5, -1804.5]
-[23Jan2024 17:58:36.748] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/8337, l='ServerLevel[world]', x=637.92, y=69.07, z=-1803.68]
-[23Jan2024 17:59:05.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 18:00:25.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 640.5, 69.5, -1794.5]
-[23Jan2024 18:00:28.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 634.5, 70.5, -1787.5]
-[23Jan2024 18:00:47.392] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager EntityJackOMan['Jack 'O' Man'/9303, l='ServerLevel[world]', x=688.40, y=24.00, z=-1758.99] died, message: 'Jack 'O' Man was slain by Zombie'
-[23Jan2024 18:01:17.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 18:01:24.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 632.5, 75.5, -1816.5]
-[23Jan2024 18:02:03.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Scuttler
-[23Jan2024 18:02:11.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 633.5, 75.5, -1816.5]
-[23Jan2024 18:02:15.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Scuttler
-[23Jan2024 18:02:24.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 633.5, 75.5, -1816.5]
-[23Jan2024 18:02:28.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Scuttler
-[23Jan2024 18:02:40.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:02:43.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 645.5, 69.5, -1809.5]
-[23Jan2024 18:03:00.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 631.5, 75.5, -1816.5]
-[23Jan2024 18:03:04.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:03:11.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 642.5, 69.5, -1813.5]
-[23Jan2024 18:03:14.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Scuttler
-[23Jan2024 18:03:43.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 645.5, 69.5, -1813.5]
-[23Jan2024 18:03:44.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Scuttler
-[23Jan2024 18:03:47.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 18:03:49.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 645.5, 69.5, -1812.5]
-[23Jan2024 18:03:50.078] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/11223, l='ServerLevel[world]', x=645.24, y=69.00, z=-1812.46]
-[23Jan2024 18:03:56.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 634.5, 69.5, -1809.5]
-[23Jan2024 18:04:16.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Scuttler
-[23Jan2024 18:04:19.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 646.5, 69.5, -1826.5]
-[23Jan2024 18:04:36.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Thrall
-[23Jan2024 18:04:39.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 630.5, 69.5, -1819.5]
-[23Jan2024 18:06:11.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 has made the advancement [The Song of the Dragons]
-[23Jan2024 18:07:26.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported sas79 to timetocook420]
-[23Jan2024 18:07:28.231] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: sas79 moved too quickly! -0.8188173153546359,-10.867409983895072,0.8797844834967918
-[23Jan2024 18:07:30.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: sas79 was kicked for floating too long!
-[23Jan2024 18:07:30.698] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sas79 lost connection: Flying is not enabled on this server
-[23Jan2024 18:07:30.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 left the game
-[23Jan2024 18:07:30.746] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[23Jan2024 18:07:57.809] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@54011c3f
-[23Jan2024 18:07:57.819] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: sas79[/88.204.69.189:53889] logged in with entity id 13688 at (1352.6270964860646, 85.8949724036495, -912.6747612906963)
-[23Jan2024 18:07:57.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 joined the game
-[23Jan2024 18:08:06.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 wasn't careful enough around live wiring
-[23Jan2024 18:08:16.595] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager EntityJackOMan['Jack 'O' Man'/13786, l='ServerLevel[world]', x=1388.21, y=20.00, z=-940.54] died, message: 'Jack 'O' Man hit the ground too hard whilst trying to escape Zombie'
-[23Jan2024 18:08:18.745] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 lost connection: Disconnected
-[23Jan2024 18:08:18.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 left the game
-[23Jan2024 18:08:30.756] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ace290c
-[23Jan2024 18:08:30.765] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: timetocook420[/178.71.231.3:61304] logged in with entity id 13820 at (1442.8116386741167, 67.0, -919.5794217812982)
-[23Jan2024 18:08:30.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 joined the game
-[23Jan2024 18:11:22.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1237.5, 74.5, -892.5]
-[23Jan2024 18:11:28.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4952a23d
-[23Jan2024 18:11:38.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 18:12:13.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 641.5, 69.5, -1795.5]
-[23Jan2024 18:13:36.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 1445.5, 67.5, -920.5]
-[23Jan2024 18:14:52.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1237.5, 74.5, -892.5]
-[23Jan2024 18:15:20.149] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager EntityJackOMan['Jack 'O' Man'/14433, l='ServerLevel[world]', x=1386.00, y=16.00, z=-954.60] died, message: 'Jack 'O' Man was slain by Zombie'
-[23Jan2024 18:15:34.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 18:15:46.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Gave 1 [Realmite Shield] to sas79]
-[23Jan2024 18:16:15.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Gave 64 [Gravemaster's Key] to sas79]
-[23Jan2024 18:16:57.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Set the time to 1000]
-[23Jan2024 18:21:20.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was shot by timetocook420
-[23Jan2024 18:23:31.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was shot by timetocook420
-[23Jan2024 18:25:37.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was pierced by timetocook420's Railgun
-[23Jan2024 18:27:46.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Set the time to 1000]
-[23Jan2024 18:28:47.544] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager EntityJackOMan['Jack 'O' Man'/16669, l='ServerLevel[world]', x=1456.51, y=41.00, z=-990.93] died, message: 'Jack 'O' Man was slain by Zombie'
-[23Jan2024 18:35:04.352] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: sas79 moved wrongly!
-[23Jan2024 18:35:47.744] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 lost connection: Timed out
-[23Jan2024 18:35:47.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 left the game
-[23Jan2024 18:46:31.953] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69ff9e73
-[23Jan2024 18:46:31.961] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: timetocook420[/178.71.231.3:57320] logged in with entity id 19780 at (1454.0287066941526, 67.0, -997.059763266379)
-[23Jan2024 18:46:31.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 joined the game
-[23Jan2024 18:47:47.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -432.5, 71.5, -893.5]
-[23Jan2024 18:48:09.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to sas79]
-[23Jan2024 18:48:55.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 18:49:02.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -431.5, 70.5, -907.5]
-[23Jan2024 18:49:58.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 18:50:04.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 1445.5, 67.5, -920.5]
-[23Jan2024 18:50:17.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -433.5, 70.5, -898.5]
-[23Jan2024 18:50:18.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to sas79]
-[23Jan2024 18:50:41.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:50:44.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -434.5, 76.5, -916.5]
-[23Jan2024 18:50:47.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Scuttler
-[23Jan2024 18:50:57.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 18:51:01.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -433.5, 76.5, -912.5]
-[23Jan2024 18:51:05.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -426.5, 76.5, -907.5]
-[23Jan2024 18:51:28.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 18:51:32.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 18:51:38.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -430.5, 76.5, -909.5]
-[23Jan2024 18:51:39.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to sas79]
-[23Jan2024 18:51:43.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:51:46.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -432.5, 76.5, -907.5]
-[23Jan2024 18:51:48.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:51:51.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -431.5, 76.5, -907.5]
-[23Jan2024 18:51:56.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:52:00.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to sas79]
-[23Jan2024 18:52:01.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 18:52:02.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:52:09.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -437.5, 71.5, -914.5]
-[23Jan2024 18:52:10.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -436.5, 70.5, -913.5]
-[23Jan2024 18:52:27.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:52:30.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -437.5, 76.5, -913.5]
-[23Jan2024 18:52:32.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Knight
-[23Jan2024 18:52:35.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was slain by Dread Knight
-[23Jan2024 18:52:38.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -440.5, 76.5, -909.5]
-[23Jan2024 18:52:47.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -431.5, 70.5, -911.5]
-[23Jan2024 18:52:59.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was slain by Dread Beast
-[23Jan2024 18:53:12.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 18:53:16.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to -425.5, 71.5, -930.5]
-[23Jan2024 18:53:17.066] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/25526, l='ServerLevel[world]', x=-425.25, y=71.00, z=-930.75]
-[23Jan2024 18:53:17.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to sas79]
-[23Jan2024 18:54:05.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 has made the advancement [The Song of the Dragons]
-[23Jan2024 18:54:28.345] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager EntityJackOMan['Jack 'O' Man'/25986, l='ServerLevel[world]', x=-461.60, y=25.11, z=-910.49] died, message: 'Jack 'O' Man was slain by Zombie'
-[23Jan2024 18:54:51.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to 1433.5, 67.5, -918.5]
-[23Jan2024 18:57:58.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Teleported sas79 to 1445.5, 67.5, -920.5]
-[23Jan2024 18:58:02.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sas79: Set the time to 1000]
-[23Jan2024 18:58:07.244] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 lost connection: Disconnected
-[23Jan2024 18:58:07.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 left the game
-[23Jan2024 19:03:04.075] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
-[23Jan2024 19:03:04.075] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-3.12.1.jar:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-3.12.1.jar:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-3.12.1.jar:?]
-	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[?:?]
-Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-3.12.1.jar:?]
-	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-3.12.1.jar:?]
-	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-3.12.1.jar:?]
-	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-3.12.1.jar:?]
-	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-3.12.1.jar:?]
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-3.12.1.jar:?]
-	... 4 more
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:117)
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:1043)
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:81)
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:65)
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.utils.Signals.lambda$register$1(Signals.java:52)
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at com.sun.proxy.$Proxy34.handle(Unknown Source)
-[23Jan2024 19:03:04.076] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at jdk.unsupported/sun.misc.Signal$InternalMiscHandler.handle(Signal.java:198)
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:220)
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at java.base/java.lang.Thread.run(Thread.java:829)
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
-[23Jan2024 19:03:04.077] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	... 9 more
-[23Jan2024 19:03:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[23Jan2024 19:03:04.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[23Jan2024 19:03:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[23Jan2024 19:03:04.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23Jan2024 19:03:05.681] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23Jan2024 19:03:05.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23Jan2024 19:03:05.682] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23Jan2024 19:03:05.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23Jan2024 19:03:05.682] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23Jan2024 19:03:05.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:apalachia
-[23Jan2024 19:03:05.683] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apalachia): All chunks are saved
-[23Jan2024 19:03:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:wildwood
-[23Jan2024 19:03:05.683] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (wildwood): All chunks are saved
-[23Jan2024 19:03:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:arcana
-[23Jan2024 19:03:05.684] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (arcana): All chunks are saved
-[23Jan2024 19:03:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:skythern
-[23Jan2024 19:03:05.684] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skythern): All chunks are saved
-[23Jan2024 19:03:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:vethea
-[23Jan2024 19:03:05.685] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vethea): All chunks are saved
-[23Jan2024 19:03:05.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:mortum
-[23Jan2024 19:03:05.685] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mortum): All chunks are saved
-[23Jan2024 19:03:05.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:eden
-[23Jan2024 19:03:05.686] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (eden): All chunks are saved
-[23Jan2024 19:03:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/divinerpg:iceika
-[23Jan2024 19:03:05.686] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (iceika): All chunks are saved
-[23Jan2024 19:03:05.705] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23Jan2024 19:03:05.757] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23Jan2024 19:03:05.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23Jan2024 19:03:05.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (apalachia): All chunks are saved
-[23Jan2024 19:03:05.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (wildwood): All chunks are saved
-[23Jan2024 19:03:05.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (arcana): All chunks are saved
-[23Jan2024 19:03:05.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skythern): All chunks are saved
-[23Jan2024 19:03:05.758] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vethea): All chunks are saved
-[23Jan2024 19:03:05.759] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mortum): All chunks are saved
-[23Jan2024 19:03:05.759] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (eden): All chunks are saved
-[23Jan2024 19:03:05.759] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (iceika): All chunks are saved
+[22Aug2025 00:18:16.572] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@59a5d095
+[22Aug2025 00:18:16.602] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Skoptenco[/195.133.41.246:57259] logged in with entity id 42785 at (-18.433740609318857, 60.0, 653.3857803612295)
+[22Aug2025 00:18:16.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco joined the game
+[22Aug2025 00:18:16.729] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 00:21:07.889] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Skoptenco lost connection: Disconnected
+[22Aug2025 00:21:07.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco left the game
+[22Aug2025 00:37:19.629] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1b5e790b
+[22Aug2025 00:37:19.654] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Skoptenco[/195.133.41.246:50217] logged in with entity id 43144 at (-16.51664400923083, 60.0, 650.4655682617453)
+[22Aug2025 00:37:19.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco joined the game
+[22Aug2025 00:37:19.779] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:34:01.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was pushed into wiring by Mutant Skeleton
+[22Aug2025 01:34:02.855] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:34:30.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:34:31.775] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:35:43.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:35:44.856] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:36:01.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:36:03.527] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:36:24.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:36:25.769] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:37:12.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:37:13.443] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:47:04.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:47:06.183] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:47:48.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:47:49.674] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:48:00.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was shot by Mutant Skeleton
+[22Aug2025 01:48:01.642] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:49:52.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco was slain by Zombie
+[22Aug2025 01:49:53.836] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 01:57:49.517] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Skoptenco moved wrongly!
+[22Aug2025 01:57:49.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco wasn't careful enough around live wiring
+[22Aug2025 01:57:52.850] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 02:13:33.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco wasn't careful enough around live wiring
+[22Aug2025 02:13:34.349] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Skoptenco moved too quickly! 9.246367688269995,-1.2814933180655146,-6.3344261883214585
+[22Aug2025 02:13:36.027] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 02:15:14.946] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Skoptenco lost connection: Disconnected
+[22Aug2025 02:15:14.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Skoptenco left the game
+[22Aug2025 09:05:28.410] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71ba6115
+[22Aug2025 09:05:28.437] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: sas79[/88.204.123.128:64317] logged in with entity id 55901 at (-98.2405113591898, 72.0, 715.1734805115981)
+[22Aug2025 09:05:28.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 joined the game
+[22Aug2025 09:05:28.542] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.apiculture.commands.CommandBeeGive$BeeArgument@4a57ffae (class forestry.apiculture.commands.CommandBeeGive$BeeArgument) - will not be sent to client!
+[22Aug2025 09:05:28.543] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 09:05:28.543] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@36efc765 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 09:05:28.543] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@6da388d0 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 09:37:33.582] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1011ef48
+[22Aug2025 09:37:33.608] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: timetocook420[/178.70.173.10:52263] logged in with entity id 63996 at (-38.5, 65.0, 708.5)
+[22Aug2025 09:37:33.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 joined the game
+[22Aug2025 09:37:33.735] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.apiculture.commands.CommandBeeGive$BeeArgument@4a57ffae (class forestry.apiculture.commands.CommandBeeGive$BeeArgument) - will not be sent to client!
+[22Aug2025 09:37:33.735] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 09:37:33.735] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@36efc765 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 09:37:33.735] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@6da388d0 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 09:40:19.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[22Aug2025 09:41:09.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[22Aug2025 09:41:36.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Aug2025 09:42:07.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[22Aug2025 09:43:00.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[22Aug2025 09:43:19.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3665ms or 73 ticks behind
+[22Aug2025 09:43:37.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[22Aug2025 09:43:54.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[22Aug2025 09:44:13.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4122ms or 82 ticks behind
+[22Aug2025 09:44:32.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4014ms or 80 ticks behind
+[22Aug2025 09:44:51.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[22Aug2025 09:45:10.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[22Aug2025 09:45:28.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3582ms or 71 ticks behind
+[22Aug2025 09:45:47.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
+[22Aug2025 09:46:07.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5142ms or 102 ticks behind
+[22Aug2025 09:46:13.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 has made the advancement [No Step on Snake]
+[22Aug2025 09:46:25.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[22Aug2025 09:46:29.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the time to 1000]
+[22Aug2025 09:46:43.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[22Aug2025 09:47:03.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4241ms or 84 ticks behind
+[22Aug2025 09:47:23.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5171ms or 103 ticks behind
+[22Aug2025 09:47:43.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5655ms or 113 ticks behind
+[22Aug2025 09:48:03.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5146ms or 102 ticks behind
+[22Aug2025 09:48:23.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4841ms or 96 ticks behind
+[22Aug2025 09:48:42.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[22Aug2025 09:49:01.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[22Aug2025 09:49:20.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4166ms or 83 ticks behind
+[22Aug2025 09:49:28.018] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 moved too quickly! -0.7035202154213493,0.6299542379653928,-10.098106546262443
+[22Aug2025 09:49:41.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5859ms or 117 ticks behind
+[22Aug2025 09:50:01.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4501ms or 90 ticks behind
+[22Aug2025 09:50:20.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3860ms or 77 ticks behind
+[22Aug2025 09:50:38.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
+[22Aug2025 09:50:56.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[22Aug2025 09:51:15.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[22Aug2025 09:51:34.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4023ms or 80 ticks behind
+[22Aug2025 09:51:54.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
+[22Aug2025 09:52:13.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4251ms or 85 ticks behind
+[22Aug2025 09:52:33.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4360ms or 87 ticks behind
+[22Aug2025 09:52:51.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3717ms or 74 ticks behind
+[22Aug2025 09:53:11.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4392ms or 87 ticks behind
+[22Aug2025 09:53:30.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4248ms or 84 ticks behind
+[22Aug2025 09:53:49.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[22Aug2025 09:54:07.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
+[22Aug2025 09:54:11.998] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 moved too quickly! -0.014500496779078276,-9.90489378045747,-1.9098621826694853
+[22Aug2025 09:54:27.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4248ms or 84 ticks behind
+[22Aug2025 09:54:46.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
+[22Aug2025 09:55:04.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[22Aug2025 09:55:23.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[22Aug2025 09:55:40.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2978ms or 59 ticks behind
+[22Aug2025 09:56:00.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
+[22Aug2025 09:56:18.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[22Aug2025 09:56:35.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[22Aug2025 09:56:53.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
+[22Aug2025 09:57:11.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[22Aug2025 09:57:28.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[22Aug2025 09:57:44.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -53.5, 64.5, 713.5]
+[22Aug2025 09:57:46.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[22Aug2025 09:57:52.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the time to 1000]
+[22Aug2025 09:58:21.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[22Aug2025 09:58:39.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[22Aug2025 09:59:21.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[22Aug2025 10:00:10.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[22Aug2025 10:01:04.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[22Aug2025 10:02:07.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Aug2025 10:03:13.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[22Aug2025 10:03:26.956] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/389, l='ServerLevel[world]', x=-185.70, y=63.00, z=641.51] died, message: 'Leatherworker was slain by Vindicator'
+[22Aug2025 10:03:29.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 has made the advancement [Ol' Betsy]
+[22Aug2025 10:04:10.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 has completed the challenge [Hero of the Village]
+[22Aug2025 10:04:10.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 has completed the challenge [Hero of the Village]
+[22Aug2025 10:06:22.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -984.5, 67.5, -2107.5]
+[22Aug2025 10:06:24.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[22Aug2025 10:06:41.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[22Aug2025 10:06:59.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[22Aug2025 10:07:17.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[22Aug2025 10:07:35.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
+[22Aug2025 10:07:55.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4496ms or 89 ticks behind
+[22Aug2025 10:07:56.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the time to 1000]
+[22Aug2025 10:08:13.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
+[22Aug2025 10:08:32.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
+[22Aug2025 10:08:50.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3109ms or 62 ticks behind
+[22Aug2025 10:09:07.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[22Aug2025 10:09:25.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[22Aug2025 10:09:42.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[22Aug2025 10:10:01.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3488ms or 69 ticks behind
+[22Aug2025 10:10:19.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
+[22Aug2025 10:10:38.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3305ms or 66 ticks behind
+[22Aug2025 10:10:57.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4073ms or 81 ticks behind
+[22Aug2025 10:11:16.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4123ms or 82 ticks behind
+[22Aug2025 10:11:34.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2794ms or 55 ticks behind
+[22Aug2025 10:11:52.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[22Aug2025 10:12:10.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[22Aug2025 10:12:27.187] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 moved too quickly! 0.19158218828124518,1.9787100539594462,-9.952926857551574
+[22Aug2025 10:12:29.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
+[22Aug2025 10:12:47.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
+[22Aug2025 10:13:05.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+[22Aug2025 10:13:23.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3357ms or 67 ticks behind
+[22Aug2025 10:13:41.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
+[22Aug2025 10:13:59.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[22Aug2025 10:14:17.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[22Aug2025 10:14:35.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
+[22Aug2025 10:14:53.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3188ms or 63 ticks behind
+[22Aug2025 10:15:13.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5099ms or 101 ticks behind
+[22Aug2025 10:15:32.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3588ms or 71 ticks behind
+[22Aug2025 10:15:50.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[22Aug2025 10:16:09.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4044ms or 80 ticks behind
+[22Aug2025 10:16:27.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[22Aug2025 10:16:44.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[22Aug2025 10:17:02.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[22Aug2025 10:17:21.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3489ms or 69 ticks behind
+[22Aug2025 10:17:39.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
+[22Aug2025 10:17:57.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[22Aug2025 10:18:15.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
+[22Aug2025 10:18:33.386] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 moved too quickly! 8.944501462824974,2.7109038972016464,-4.255584920005276
+[22Aug2025 10:18:35.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4681ms or 93 ticks behind
+[22Aug2025 10:18:53.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3111ms or 62 ticks behind
+[22Aug2025 10:19:11.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[22Aug2025 10:19:29.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
+[22Aug2025 10:19:48.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3826ms or 76 ticks behind
+[22Aug2025 10:20:07.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3926ms or 78 ticks behind
+[22Aug2025 10:20:25.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3479ms or 69 ticks behind
+[22Aug2025 10:20:44.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
+[22Aug2025 10:21:03.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4614ms or 92 ticks behind
+[22Aug2025 10:21:22.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
+[22Aug2025 10:21:40.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[22Aug2025 10:21:59.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[22Aug2025 10:22:17.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
+[22Aug2025 10:22:35.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[22Aug2025 10:22:53.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3036ms or 60 ticks behind
+[22Aug2025 10:23:11.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[22Aug2025 10:23:30.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4280ms or 85 ticks behind
+[22Aug2025 10:23:48.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[22Aug2025 10:24:06.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
+[22Aug2025 10:24:24.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[22Aug2025 10:24:43.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4013ms or 80 ticks behind
+[22Aug2025 10:25:01.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[22Aug2025 10:25:19.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+[22Aug2025 10:25:38.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3604ms or 72 ticks behind
+[22Aug2025 10:25:56.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[22Aug2025 10:26:16.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4776ms or 95 ticks behind
+[22Aug2025 10:26:35.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4242ms or 84 ticks behind
+[22Aug2025 10:26:55.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4371ms or 87 ticks behind
+[22Aug2025 10:27:14.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4426ms or 88 ticks behind
+[22Aug2025 10:27:21.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Teleported timetocook420 to -53.5, 64.5, 713.5]
+[22Aug2025 10:27:28.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the time to 1000]
+[22Aug2025 10:27:31.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[22Aug2025 10:27:35.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the weather to clear]
+[22Aug2025 10:28:27.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[22Aug2025 10:29:05.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[22Aug2025 10:29:24.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[22Aug2025 10:29:41.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[22Aug2025 10:29:59.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[22Aug2025 10:30:30.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[22Aug2025 10:30:54.449] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b554d47
+[22Aug2025 10:31:23.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[22Aug2025 10:32:14.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[22Aug2025 10:32:55.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[22Aug2025 10:35:10.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[22Aug2025 10:35:27.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[22Aug2025 10:35:46.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3524ms or 70 ticks behind
+[22Aug2025 10:36:05.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[22Aug2025 10:36:23.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2984ms or 59 ticks behind
+[22Aug2025 10:36:40.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[22Aug2025 10:36:58.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
+[22Aug2025 10:37:01.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 has made the advancement [What a Deal!]
+[22Aug2025 10:37:15.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[22Aug2025 10:37:33.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[22Aug2025 10:37:50.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[22Aug2025 10:38:08.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[22Aug2025 10:38:25.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[22Aug2025 10:38:42.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the weather to clear]
+[22Aug2025 10:38:43.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[22Aug2025 10:38:43.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the time to 1000]
+[22Aug2025 10:39:00.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[22Aug2025 10:39:17.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[22Aug2025 10:39:35.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[22Aug2025 10:40:31.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 was killed by timetocook420 using magic
+[22Aug2025 10:40:33.833] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.apiculture.commands.CommandBeeGive$BeeArgument@4a57ffae (class forestry.apiculture.commands.CommandBeeGive$BeeArgument) - will not be sent to client!
+[22Aug2025 10:40:33.833] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 10:40:33.833] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@36efc765 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 10:40:33.833] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@6da388d0 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 10:41:51.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[22Aug2025 10:42:23.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[22Aug2025 10:43:19.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[22Aug2025 10:44:05.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[22Aug2025 10:44:23.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[22Aug2025 10:44:58.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Aug2025 10:45:30.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[22Aug2025 10:45:49.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
+[22Aug2025 10:46:24.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Aug2025 10:47:51.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the time to 1000]
+[22Aug2025 10:47:52.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [timetocook420: Set the weather to clear]
+[22Aug2025 10:48:08.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22Aug2025 10:48:53.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[22Aug2025 10:49:27.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[22Aug2025 10:49:50.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22Aug2025 10:50:08.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[22Aug2025 10:50:33.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22Aug2025 10:50:50.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[22Aug2025 10:51:22.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[22Aug2025 10:52:07.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was blown up by Creeper Minion
+[22Aug2025 10:52:10.742] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.apiculture.commands.CommandBeeGive$BeeArgument@4a57ffae (class forestry.apiculture.commands.CommandBeeGive$BeeArgument) - will not be sent to client!
+[22Aug2025 10:52:10.742] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 10:52:10.742] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@36efc765 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 10:52:10.742] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@6da388d0 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 10:52:18.155] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 moved too quickly! 0.2552716994906774,-10.408991223757717,-0.13885923266389
+[22Aug2025 10:55:34.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 was shot by Mutant Skeleton
+[22Aug2025 10:55:35.709] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.apiculture.commands.CommandBeeGive$BeeArgument@4a57ffae (class forestry.apiculture.commands.CommandBeeGive$BeeArgument) - will not be sent to client!
+[22Aug2025 10:55:35.709] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument@63755f36 (class forestry.core.commands.CommandModules$CommandPluginsInfo$ModuleArgument) - will not be sent to client!
+[22Aug2025 10:55:35.709] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@36efc765 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 10:55:35.709] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment@6da388d0 (class forestry.arboriculture.commands.CommandTreeSpawn$TreeArugment) - will not be sent to client!
+[22Aug2025 10:56:09.293] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: timetocook420 lost connection: Disconnected
+[22Aug2025 10:56:09.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: timetocook420 left the game
+[22Aug2025 10:56:13.845] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sas79 lost connection: Disconnected
+[22Aug2025 10:56:13.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sas79 left the game
+[22Aug2025 10:56:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Aug2025 10:56:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Aug2025 10:56:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Aug2025 10:56:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Aug2025 10:56:32.091] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Aug2025 10:56:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Aug2025 10:56:32.092] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Aug2025 10:56:32.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Aug2025 10:56:32.093] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Aug2025 10:56:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/appliedenergistics2:spatial_storage
+[22Aug2025 10:56:32.093] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[22Aug2025 10:56:32.131] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Aug2025 10:56:32.387] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Aug2025 10:56:32.388] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Aug2025 10:56:32.388] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
