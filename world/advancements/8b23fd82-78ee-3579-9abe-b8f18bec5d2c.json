@@ -15838,5 +15838,29 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel2": {
+    "criteria": {
+      "has_deepslate_ore_nickel": "2025-09-07 01:18:58 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/upgrade_revolver": {
+    "criteria": {
+      "code_trigger": "2025-09-07 01:53:08 +0300"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-09-07 02:07:33 +0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting2": {
+    "criteria": {
+      "has_deepslate_ore_nickel": "2025-09-07 01:18:58 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

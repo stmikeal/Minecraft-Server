@@ -1,99 +1,311 @@
-[06Sep2025 00:00:48.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 00:10:40.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 00:20:09.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 00:29:50.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 00:39:29.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 00:48:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 00:53:47.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 01:03:24.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 01:12:23.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 01:22:20.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 01:31:42.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 01:41:40.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 01:50:07.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: timetocook420[/95.52.188.5:61641] logged in with entity id 716370 at (1515.9265128011173, 64.0, 29.253465899720897)
-[06Sep2025 01:50:07.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 joined the game
-[06Sep2025 01:50:27.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> салам
-[06Sep2025 01:50:38.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> дарова
-[06Sep2025 01:51:07.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> дарова
-[06Sep2025 01:51:11.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 01:51:32.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> тросник не трогал?
-[06Sep2025 01:51:45.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Marked chunk [92, -1] in minecraft:overworld to be force loaded]
-[06Sep2025 01:51:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> не
-[06Sep2025 01:51:56.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Marked [92, 0] chunks in minecraft:overworld from [92, -1] to [95, 7] to be force loaded]
-[06Sep2025 01:52:27.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> то есть ты снес хату потому что она большая
-[06Sep2025 01:52:33.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> и построил еще больше?
-[06Sep2025 01:52:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> там фундамент лишний был
-[06Sep2025 01:53:01.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> и он слишком высокий получился
-[06Sep2025 01:54:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> как ты заходишь сразу дождь начинается
-[06Sep2025 01:55:09.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> депресняк
-[06Sep2025 01:55:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the weather to clear]
-[06Sep2025 01:55:44.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 wasn't careful enough around live wiring
-[06Sep2025 01:55:51.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> проблема
-[06Sep2025 02:00:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> сука
-[06Sep2025 02:00:37.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> сундуки кончились
-[06Sep2025 02:01:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the weather to clear]
-[06Sep2025 02:01:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
-[06Sep2025 02:05:28.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> а что у нас там так забило
-[06Sep2025 02:06:24.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> да там дохера срани
-[06Sep2025 02:06:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> у нас перепроизводство всего)
-[06Sep2025 02:07:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> 40 тысяч незерака)
-[06Sep2025 02:07:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> 30 тысяч кирпичей
-[06Sep2025 02:07:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> 36к семян
-[06Sep2025 02:07:16.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> особенно учитывая то что мы уже неделю просто строим
-[06Sep2025 02:07:30.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> тросника и сена суммарно 32к
-[06Sep2025 02:07:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> мммм ахуенно
-[06Sep2025 02:07:40.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> 100к нароста
-[06Sep2025 02:07:51.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> 10к волокон конопли
-[06Sep2025 02:07:58.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> короче дохуя всего
-[06Sep2025 02:08:03.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> сжигать надо половину
-[06Sep2025 02:08:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> хочешь отвлечься ненадолго?
-[06Sep2025 02:08:38.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> я пойду щас
-[06Sep2025 02:08:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> окич
-[06Sep2025 02:08:45.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> а что хчешь
-[06Sep2025 02:08:53.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> поискать урановую жилу
-[06Sep2025 02:09:11.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> на какой высоте он
-[06Sep2025 02:09:15.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
-[06Sep2025 02:09:20.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> там надо просто с книжкой бегать
-[06Sep2025 02:09:23.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> и тыкать по земле
-[06Sep2025 02:09:28.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> ааааа
-[06Sep2025 02:09:35.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
-[06Sep2025 02:09:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> тогда точно не
-[06Sep2025 02:09:45.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> тогда точно не
-[06Sep2025 02:09:53.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
-[06Sep2025 02:09:57.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sas79> пингует чета
-[06Sep2025 02:10:03.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> это я балуюсь с сундуками
-[06Sep2025 02:10:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <timetocook420> сжимаю всё что можно
-[06Sep2025 02:10:53.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sas79 lost connection: Disconnected
-[06Sep2025 02:10:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 left the game
-[06Sep2025 02:12:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Set the time to 1000]
-[06Sep2025 02:21:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 has made the advancement [Sky isn't the Limit]
-[06Sep2025 02:31:26.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: timetocook420 moved wrongly!
-[06Sep2025 02:41:56.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 drowned
-[06Sep2025 02:47:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 has reached the goal [Hazardous Machinery]
-[06Sep2025 02:49:37.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: timetocook420 lost connection: Disconnected
-[06Sep2025 02:49:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 left the game
-[06Sep2025 02:49:44.980] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2363!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2363!/:?]
-	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.4.0-universal.jar%23204!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
-Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
-	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2364!/:?]
-	... 4 more
-[06Sep2025 02:49:45.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06Sep2025 02:49:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06Sep2025 02:49:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[06Sep2025 02:49:45.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06Sep2025 02:49:46.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06Sep2025 02:49:46.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06Sep2025 02:49:46.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06Sep2025 02:49:46.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06Sep2025 02:49:46.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06Sep2025 02:49:46.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Sep2025 01:14:31.167] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[07Sep2025 01:14:31.174] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 5.15.0-153-generic
+[07Sep2025 01:14:32.675] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Sep2025 01:14:32.759] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/admin/Minecraft-Server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Sep2025 01:14:33.198] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/admin/Minecraft-Server/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[07Sep2025 01:14:33.200] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/admin/Minecraft-Server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[07Sep2025 01:14:33.201] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/admin/Minecraft-Server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[07Sep2025 01:14:33.203] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/admin/Minecraft-Server/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[07Sep2025 01:14:33.438] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[07Sep2025 01:14:35.365] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Sep2025 01:14:35.465] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[07Sep2025 01:14:35.470] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[07Sep2025 01:14:35.640] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Sep2025 01:14:36.893] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[07Sep2025 01:14:36.895] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[07Sep2025 01:14:36.895] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[07Sep2025 01:14:36.896] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[07Sep2025 01:14:36.897] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[07Sep2025 01:14:36.897] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[07Sep2025 01:14:36.899] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[07Sep2025 01:14:36.899] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[07Sep2025 01:14:37.099] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07Sep2025 01:14:43.048] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[07Sep2025 01:14:43.072] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[07Sep2025 01:14:43.082] [modloading-worker-0/INFO] [invtweaks/]: Registered 2 network packets
+[07Sep2025 01:14:43.304] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[07Sep2025 01:14:43.436] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[07Sep2025 01:14:43.437] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[07Sep2025 01:14:44.770] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[07Sep2025 01:14:44.795] [modloading-worker-0/INFO] [pneumaticcraft/]: Thirdparty integration activated for [immersiveengineering,waila,jei,botania,curios,patchouli,create]
+[07Sep2025 01:14:45.119] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
+[07Sep2025 01:14:46.731] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@16139b0 has been registered twice for the same name treechop:chop_wood.
+[07Sep2025 01:14:49.660] [modloading-worker-0/INFO] [pneumaticcraft/]: PneumaticCraft: Repressurized is loading!
+[07Sep2025 01:14:49.691] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /home/admin/Minecraft-Server/config/storagenetwork.toml is not correct. Correcting
+[07Sep2025 01:14:49.693] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key storagenetwork.facades.itemsNotAllowed was corrected from [minecraft:ladder, minecraft:double_plant, minecraft:waterlily, minecraft:torch, minecraft:*_torch, minecraft:redstone, minecraft:iron_bars, minecraft:chest, minecraft:ender_chest, minecraft:sculk_vein, minecraft:string, minecraft:vine, minecraft:rail, minecraft:*_rail, minecraft:brewing_stand, minecraft:*_dripleaf, minecraft:*_pane, minecraft:*_sapling, minecraft:*_sign, minecraft:*_door, minecraft:*_banner, minecraft:*_shulker_box, cyclic:*_pipe, cyclic:*_bars, storagenetwork:*] to its default, [minecraft:ladder, minecraft:double_plant, minecraft:waterlily, minecraft:torch, minecraft:*_torch, minecraft:redstone, minecraft:iron_bars, minecraft:chest, minecraft:ender_chest, minecraft:sculk_vein, minecraft:string, minecraft:vine, minecraft:rail, minecraft:*_rail, minecraft:brewing_stand, minecraft:*_dripleaf, minecraft:*_pane, minecraft:*_sapling, minecraft:*_sign, minecraft:*_door, minecraft:*_banner, minecraft:*_shulker_box, cyclic:*_pipe, cyclic:*_bars, storagenetwork:*]. 
+[07Sep2025 01:14:49.733] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[07Sep2025 01:14:50.085] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
+[07Sep2025 01:14:50.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: AHEAD Current: 1.20.1-1.1.2 Target: null
+[07Sep2025 01:14:50.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[07Sep2025 01:14:50.526] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[07Sep2025 01:14:50.528] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[07Sep2025 01:14:50.536] [modloading-worker-0/INFO] [pneumaticcraft/]: Sending IMC messages.
+[07Sep2025 01:14:50.586] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[07Sep2025 01:14:50.599] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[07Sep2025 01:14:50.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[07Sep2025 01:14:50.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/trunk/1.19/update.json
+[07Sep2025 01:14:50.628] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[07Sep2025 01:14:50.629] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[07Sep2025 01:14:50.632] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[07Sep2025 01:14:50.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Found status: BETA Current: 1.11.3 Target: null
+[07Sep2025 01:14:50.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[07Sep2025 01:14:50.671] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[07Sep2025 01:14:50.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[07Sep2025 01:14:50.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Starting version check at https://raw.githubusercontent.com/TeamPneumatic/pnc-repressurized/1.20.1/release_info.json
+[07Sep2025 01:14:50.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Found status: AHEAD Current: 6.0.20+mc1.20.1 Target: null
+[07Sep2025 01:14:50.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ipo] Starting version check at https://api.modrinth.com/updates/WQxwMPH5/forge_updates.json
+[07Sep2025 01:14:51.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ipo] Found status: UP_TO_DATE Current: 5 Target: null
+[07Sep2025 01:14:51.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Sep2025 01:14:51.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[07Sep2025 01:14:51.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveposts] Starting version check at https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
+[07Sep2025 01:14:51.413] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 16 column 28 path $..4.3.0-11
+	at com.google.gson.Gson.fromJson(Gson.java:1229) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23200!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23200!/:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 16 column 28 path $..4.3.0-11
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:500) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ObjectTypeAdapter.read(ObjectTypeAdapter.java:122) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:186) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[07Sep2025 01:14:51.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[07Sep2025 01:14:51.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[07Sep2025 01:14:51.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.20.1/changelog.json
+[07Sep2025 01:14:51.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: OUTDATED Current: 1.20.1-10.1.0-171 Target: 1.20.1-10.2.0-182
+[07Sep2025 01:14:51.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[07Sep2025 01:14:51.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[07Sep2025 01:14:51.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Starting version check at https://api.modrinth.com/updates/packet-fixer/forge_updates.json
+[07Sep2025 01:14:51.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Found status: OUTDATED Current: 2.0.0 Target: 3.3.0
+[07Sep2025 01:14:58.120] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Sep2025 01:15:02.193] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/admin/Minecraft-Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/assets/.mcassetsroot' uses unexpected schema
+[07Sep2025 01:15:02.194] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/admin/Minecraft-Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23199!/data/.mcassetsroot' uses unexpected schema
+[07Sep2025 01:15:02.311] [main/INFO] [com.simibubi.create.Create/]: Created 182 recipes which will be injected into the game
+[07Sep2025 01:15:02.318] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
+[07Sep2025 01:15:02.672] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[07Sep2025 01:15:04.502] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:magmatic_stone: mod not loaded
+[07Sep2025 01:15:04.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/magmatic_stone as it's serializer returned null
+[07Sep2025 01:15:04.530] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/hydrogen as it's serializer returned null
+[07Sep2025 01:15:04.561] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/cofh_refined_fuel as it's serializer returned null
+[07Sep2025 01:15:04.572] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:cryptic_campfire: mod not loaded
+[07Sep2025 01:15:04.572] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/cryptic_campfire as it's serializer returned null
+[07Sep2025 01:15:04.573] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe medievalcraftweapons:legionary_legginsc
+com.google.gson.JsonSyntaxException: Unknown item 'medievalcraftweapons:legionary_leggings'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23204!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23204!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23204!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[07Sep2025 01:15:04.576] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block betterendforge:ancient_emerald_ice: mod not loaded
+[07Sep2025 01:15:04.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/betterendforge/ancient_emerald_ice as it's serializer returned null
+[07Sep2025 01:15:04.576] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:boric_campfire: mod not loaded
+[07Sep2025 01:15:04.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/boric_campfire as it's serializer returned null
+[07Sep2025 01:15:04.579] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block occultism:spirit_fire: mod not loaded
+[07Sep2025 01:15:04.579] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/occultism/spirit_fire as it's serializer returned null
+[07Sep2025 01:15:04.579] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block powah:dry_ice: mod not loaded
+[07Sep2025 01:15:04.579] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/powah/dry_ice as it's serializer returned null
+[07Sep2025 01:15:04.582] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block betterendforge:dense_emerald_ice: mod not loaded
+[07Sep2025 01:15:04.582] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/betterendforge/dense_emerald_ice as it's serializer returned null
+[07Sep2025 01:15:04.603] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block decorative_blocks:brazier: mod not loaded
+[07Sep2025 01:15:04.604] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/decorative_blocks/brazier as it's serializer returned null
+[07Sep2025 01:15:04.605] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block decorative_blocks:soul_brazier: mod not loaded
+[07Sep2025 01:15:04.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/decorative_blocks/soul_brazier as it's serializer returned null
+[07Sep2025 01:15:04.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:radiation_shield_mekanism as it's serializer returned null
+[07Sep2025 01:15:04.607] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/cofh_tree_oil as it's serializer returned null
+[07Sep2025 01:15:04.610] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:drone_interface as it's serializer returned null
+[07Sep2025 01:15:04.615] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block natura:nether_heat_sand: mod not loaded
+[07Sep2025 01:15:04.615] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/natura/nether_heat_sand as it's serializer returned null
+[07Sep2025 01:15:04.618] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block valhelsia_structures:brazier: mod not loaded
+[07Sep2025 01:15:04.618] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/valhelsia_structures/brazier as it's serializer returned null
+[07Sep2025 01:15:04.632] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/ethylene as it's serializer returned null
+[07Sep2025 01:15:04.635] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block mekanism:block_uranium: mod not loaded
+[07Sep2025 01:15:04.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/mekanism/uranium as it's serializer returned null
+[07Sep2025 01:15:04.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/cofh_creosote as it's serializer returned null
+[07Sep2025 01:15:04.645] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block betterendforge:emerald_ice: mod not loaded
+[07Sep2025 01:15:04.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/betterendforge/emerald_ice as it's serializer returned null
+[07Sep2025 01:15:04.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:one_probe_crafting as it's serializer returned null
+[07Sep2025 01:15:04.650] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:cryptic_magma_block: mod not loaded
+[07Sep2025 01:15:04.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/cryptic_magma as it's serializer returned null
+[07Sep2025 01:15:04.656] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe medievalcraftweapons:centurion_legginsc
+com.google.gson.JsonSyntaxException: Unknown item 'medievalcraftweapons:centurion_armor_leggings'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23204!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23204!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23204!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[07Sep2025 01:15:04.663] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block quark:permafrost: mod not loaded
+[07Sep2025 01:15:04.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/quark/permafrost as it's serializer returned null
+[07Sep2025 01:15:04.664] [main/INFO] [pneumaticcraft/]: ignoring heat properties for block quark:blaze_lantern: mod not loaded
+[07Sep2025 01:15:04.664] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/quark/blaze_lantern as it's serializer returned null
+[07Sep2025 01:15:04.686] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 76 recipes
+[07Sep2025 01:15:04.783] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement medieval_craft_structures:kingofengland: Expected item to be an item, was unknown string 'medieval_craft:excalibur_sword'
+[07Sep2025 01:15:04.839] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5197 advancements
+[07Sep2025 01:15:04.859] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[07Sep2025 01:15:04.863] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[07Sep2025 01:15:04.869] [main/ERROR] [bettervillage/]: Immersive Engineering compatibility is not enabled for Better Village and Immersive Engineering is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Immersive Engineering.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[07Sep2025 01:15:04.871] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[07Sep2025 01:15:04.872] [main/INFO] [botania/]: Loaded 30 Loonium configurations
+[07Sep2025 01:15:08.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Sep2025 01:15:08.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Sep2025 01:15:08.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Sep2025 01:15:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Sep2025 01:15:08.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Sep2025 01:15:08.746] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Sep2025 01:15:08.893] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Sep2025 01:15:08.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Sep2025 01:15:08.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Sep2025 01:15:08.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Sep2025 01:15:09.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Sep2025 01:15:11.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Sep2025 01:15:16.267] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.305] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.312] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.322] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.332] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.355] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.368] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.382] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:16.903] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:17.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:17.886] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 01:15:18.386] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[07Sep2025 01:15:19.093] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7208 ms
+[07Sep2025 01:15:19.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.183s)! For help, type "help"
+[07Sep2025 01:15:19.213] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Sep2025 01:15:19.218] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[07Sep2025 01:15:19.226] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[07Sep2025 01:15:19.227] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07Sep2025 01:15:19.271] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[07Sep2025 01:15:19.393] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 centurion_armor_chestplate, missing knowledge for {1 chainmail_chestplate=1.0}
+[07Sep2025 01:15:19.394] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 compressed_iron_chestplate, missing knowledge for {1 leather_chestplate=1.0}
+[07Sep2025 01:15:19.395] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 compressed_iron_leggings, missing knowledge for {1 leather_leggings=1.0}
+[07Sep2025 01:15:19.395] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
+[07Sep2025 01:15:19.395] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 compressed_iron_boots, missing knowledge for {1 leather_boots=1.0}
+[07Sep2025 01:15:19.396] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 compressed_iron_helmet, missing knowledge for {1 leather_helmet=1.0}
+[07Sep2025 01:15:19.396] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 morning_star, missing knowledge for {1 mace=1.0}
+[07Sep2025 01:15:19.396] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumatic_leggings, missing knowledge for {1 compressed_iron_leggings=1.0}
+[07Sep2025 01:15:19.397] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 sai_dagger, missing knowledge for {1 dagger=1.0}
+[07Sep2025 01:15:19.397] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 103 milliseconds
+[07Sep2025 01:17:02.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: timetocook420[/95.52.188.5:54467] logged in with entity id 395 at (1492.2149822864478, 64.0, 27.423683758852412)
+[07Sep2025 01:17:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 joined the game
+[07Sep2025 01:17:02.122] [Netty Epoll Server IO #3/INFO] [immersiveengineering/]: Recipes for potions: minecraft:long_slowness, minecraft:strong_slowness, minecraft:poison, minecraft:harming, minecraft:long_leaping, minecraft:strong_healing, minecraft:long_water_breathing, minecraft:long_invisibility, minecraft:leaping, minecraft:water_breathing, minecraft:invisibility, minecraft:strong_poison, minecraft:strength, minecraft:turtle_master, minecraft:strong_harming, minecraft:swiftness, minecraft:long_fire_resistance, minecraft:long_regeneration, minecraft:fire_resistance, minecraft:strong_turtle_master, minecraft:water, minecraft:healing, minecraft:strong_strength, minecraft:strong_regeneration, minecraft:long_swiftness, minecraft:awkward, minecraft:strong_leaping, minecraft:long_strength, minecraft:long_turtle_master, minecraft:long_night_vision, minecraft:weakness, minecraft:slowness, minecraft:strong_swiftness, minecraft:long_slow_falling, minecraft:long_weakness, minecraft:long_poison, minecraft:night_vision, minecraft:regeneration, minecraft:slow_falling
+[07Sep2025 01:17:38.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sas79[/83.172.45.140:61233] logged in with entity id 598 at (1436.1592641057384, 67.0, -34.210342927161555)
+[07Sep2025 01:17:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 joined the game
+[07Sep2025 01:25:41.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sas79 moved wrongly!
+[07Sep2025 01:26:14.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the weather to clear]
+[07Sep2025 01:28:24.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
+[07Sep2025 01:29:06.520] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=1494, y=64, z=34}
+[07Sep2025 01:32:19.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 drowned
+[07Sep2025 01:35:02.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from timetocook420: Location (1493.732255935669, 65.58661884069443, 34.0) too far away from hit block BlockPos{x=1492, y=65, z=34}.
+[07Sep2025 01:37:59.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
+[07Sep2025 01:42:58.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from timetocook420: Location (1493.875, 65.67132753133774, 34.14726847410202) too far away from hit block BlockPos{x=1492, y=65, z=34}.
+[07Sep2025 01:48:11.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
+[07Sep2025 01:53:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 has completed the challenge [Shalashaska]
+[07Sep2025 01:57:49.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
+[07Sep2025 02:04:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 13000]
+[07Sep2025 02:04:55.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sas79 no longer a server operator
+[07Sep2025 02:05:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Gave 1 [Enchanted Book] to timetocook420]
+[07Sep2025 02:05:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sas79 a server operator
+[07Sep2025 02:09:11.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
+[07Sep2025 02:10:45.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sas79 no longer a server operator
+[07Sep2025 02:11:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Gave 1 [Enchanted Book] to timetocook420]
+[07Sep2025 02:13:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sas79 a server operator
+[07Sep2025 02:14:13.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set own game mode to Creative Mode]
+[07Sep2025 02:14:20.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sas79 lost connection: Disconnected
+[07Sep2025 02:14:20.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 left the game
+[07Sep2025 02:16:14.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sas79[/83.172.45.140:61498] logged in with entity id 322552 at (1396.3240996965603, 78.1875, -61.236434309590585)
+[07Sep2025 02:16:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 joined the game
+[07Sep2025 02:16:35.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sas79 lost connection: Disconnected
+[07Sep2025 02:16:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 left the game
+[07Sep2025 02:17:13.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Gave 1 [Revolver Speedloader] to timetocook420]
+[07Sep2025 02:18:06.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sas79[/83.172.45.140:61527] logged in with entity id 324058 at (1396.3240996965603, 78.1875, -61.236434309590585)
+[07Sep2025 02:18:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 joined the game
+[07Sep2025 02:18:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set own game mode to Survival Mode]
+[07Sep2025 02:19:21.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Gamerule keepInventory is now set to: false]
+[07Sep2025 02:19:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 wasn't careful enough around live wiring
+[07Sep2025 02:20:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [timetocook420: Gamerule keepInventory is now set to: true]
+[07Sep2025 02:20:44.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 was punished for using a relic that isn't theirs
+[07Sep2025 02:26:34.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sas79 moved too quickly! -11.896603548832218,0.0,-0.7568959135950735
+[07Sep2025 02:26:54.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sas79: Set the time to 1000]
+[07Sep2025 02:27:15.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: timetocook420 lost connection: Disconnected
+[07Sep2025 02:27:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: timetocook420 left the game
+[07Sep2025 02:27:31.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sas79 lost connection: Disconnected
+[07Sep2025 02:27:31.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas79 left the game
+[07Sep2025 02:27:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Sep2025 02:27:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Sep2025 02:27:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Sep2025 02:27:34.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Sep2025 02:27:34.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Sep2025 02:27:34.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Sep2025 02:27:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Sep2025 02:27:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Sep2025 02:27:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Sep2025 02:27:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
