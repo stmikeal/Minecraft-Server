@@ -2,71 +2,108 @@
   "biomes": [
     [
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "overworld"
+        "value": "forge:is_hot/overworld"
       },
       {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "hot"
-      },
-      {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "jungle"
+        "value": "minecraft:is_jungle"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "mesa"
+        "value": "minecraft:is_badlands"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "savanna"
+        "value": "minecraft:is_savanna"
       }
     ],
     [
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "overworld"
+        "value": "minecraft:is_overworld"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": false,
-        "value": "plains"
+        "value": "forge:is_plains"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "wet"
+        "value": "forge:is_wet/overworld"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "cold"
+        "value": "forge:is_cold/overworld"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "jungle"
+        "value": "minecraft:is_jungle"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "mesa"
+        "value": "minecraft:is_badlands"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "savanna"
+        "value": "minecraft:is_savanna"
       },
       {
-        "type": "BIOME_DICT",
+        "type": "BIOME_TAG",
         "negate": true,
-        "value": "forest"
+        "value": "minecraft:is_forest"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "terralith:steppe"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:rose_fields"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:prairie"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:firecracker_shrubland"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:autumnal_valley"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:lush_stacks"
       }
     ]
   ]
